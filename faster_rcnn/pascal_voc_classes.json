@@ -1,0 +1,9 @@
+{
+    "ripe": 1,
+    "unripe": 2,
+    "flower": 3,
+    "half-ripe": 4,
+    "bud": 5
+}
+
+

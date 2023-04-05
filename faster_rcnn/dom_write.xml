@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotation>
+	<folder>要标注的</folder>
+	<filename>0.jpg</filename>
+	<path>D:\火龙果识别\faster_rcnn\VOCdevkit\VOC2012\test\0.jpg</path>
+	<source>
+		<datebase>Unknown</datebase>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon fruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161.26538</xmin>
+			<ymin>974.0396</ymin>
+			<xmax>470.31714</xmax>
+			<ymax>1268.3269</ymax>
+		</bndbox>
+		<bndbox>
+			<xmin>918.14453</xmin>
+			<ymin>1044.0986</ymin>
+			<xmax>1080.0</xmax>
+			<ymax>1188.4237</ymax>
+		</bndbox>
+		<bndbox>
+			<xmin>458.53085</xmin>
+			<ymin>132.27405</ymin>
+			<xmax>722.92896</xmax>
+			<ymax>536.3478</ymax>
+		</bndbox>
+	</object>
+</annotation>
